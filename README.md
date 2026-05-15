@@ -2,6 +2,13 @@
 
 An _opinionated_ fork of [`evil-winrm-py`](https://github.com/adityatelange/evil-winrm-py) stripped down and modified for a better user experience and to follow the Unix philosophy; do one thing and do it well. This tool gets you a WinRM shell and it does it quite well.
 
+
+## Installation
+
+```console
+$ uv tool install git+https://github.com/sdushantha/winrm
+```
+
 ## Improvements Overview
 
 ### `winrm` as the command
